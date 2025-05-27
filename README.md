@@ -1,7 +1,7 @@
 ### Olá, eu sou Luiz André👋
 
 - 🔭 Apaixonado por programação
-- 🌱 Estudante de ADS 3/5
+- 🌱 Formado em ADS
 
 <div align="center">
   <a href="https://github.com/luizlopeslpc28">
